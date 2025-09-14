@@ -42,7 +42,7 @@
 Windows 11 でのSimpleNotepadを起動した様子 (v1.0.0)  
 ![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/SimpleNotepad_b1.png?raw=true)  
 Android 15 でのSimpleNotepadを起動した様子 (v1.1.1)  
-![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/Screenshot.png?raw=true)  
+<img src="https://github.com/sakuzyokun/SimpleNotepad/blob/main/Screenshot.png?raw=true" width="256">  
 
 ---
 
