@@ -39,8 +39,10 @@
 <!-- ↓ 適宜画像を貼る -->
 <!--Windows 7 でのLiteExplorerを起動した様子 (v1.10)  
 ![screenshot](https://sakuzyokun.github.io/LiteExplorer/files/win7_LE.png)  -->
-Windows 11 でのSimpleNotepadを起動した様子 (v1.00)  
+Windows 11 でのSimpleNotepadを起動した様子 (v1.0.0)  
 ![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/SimpleNotepad_b1.png?raw=true)  
+Android 15 でのSimpleNotepadを起動した様子 (v1.1.1)  
+![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/Screenshot.png?raw=true)  
 
 ---
 
