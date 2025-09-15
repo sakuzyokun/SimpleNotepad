@@ -25,13 +25,15 @@
 | OS              | 対応状況   |
 |-----------------|------------|
 | Windows Vista   | ✅ 対応 |
-| Windows 7       | ✅ 対応    |
+| Windows 7       | ✅ 対応確認済み |
 | Windows 8 / 8.1 | ✅ 対応      |
 | Windows 10      | ✅ 対応      |
 | Windows 11      | ✅ 対応確認済み      |
 | Mac             | ✅ Python版で動作   |
 | Linux           | ✅ Python版で動作   |
 | Android         | ✅ Android版で動作   |
+| iPhone          | ❌️ 非対応 |
+| iPad            | ❌️ 非対応 |
 
 
 > ※ ~XPは非対応です （ただしPythonや互換モードで動くかも？）
