@@ -29,8 +29,12 @@
 | Windows 8 / 8.1 | ✅ 対応      |
 | Windows 10      | ✅ 対応      |
 | Windows 11      | ✅ 対応確認済み      |
+| Mac             | ✅ Python版で動作   |
+| Linux           | ✅ Python版で動作   |
+| Android         | ✅ Android版で動作   |
 
-> ※ ~XPは非対応です （ただし互換モードで動くかも？）
+
+> ※ ~XPは非対応です （ただしPythonや互換モードで動くかも？）
 
 ---
 
@@ -50,6 +54,10 @@ Android 15 でのSimpleNotepadを起動した様子 (v1.1.1)
 
 ▶ 最新版はこちらからダウンロード：  
 👉 **[https://sakuzyokun.github.io/SimpleStopwatch/](https://sakuzyokun.github.io/SimpleNotepad/)**
+
+Windows版·Python版を更新する場合は古いファイルを消してから最新版をダウンロードすることをおすすめします
+Android版を更新する場合は一度アンインストールをしてから最新版をインストールをおすすめします
+自動アップデーターとかは無いのでちょくちょくここを覗いてください
 
 ---
 
