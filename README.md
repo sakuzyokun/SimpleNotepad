@@ -1,4 +1,4 @@
-# 🚀 SimpleStopwatch
+# 🚀 SimpleNotepad
 
 ![Windows](https://img.shields.io/badge/Windows-Vista%20~%2011-blue)  
 ## 📛 名前募集中！！ [Issues](https://github.com/sakuzyokun/SimpleNotepad/issues)に書き込め！！
@@ -31,7 +31,7 @@
 | Windows 11      | ✅ 対応確認済み      |
 | Mac             | ✅ Python版で動作   |
 | Linux           | ✅ Python版で動作   |
-| Android         | ✅ Android版で動作   |
+| Android         | ✅ Android版で動作確認済み   |
 | iPhone          | ❌️ 非対応 |
 | iPad            | ❌️ 非対応 |
 
@@ -43,8 +43,6 @@
 ## 📷 スクリーンショット
 
 <!-- ↓ 適宜画像を貼る -->
-<!--Windows 7 でのLiteExplorerを起動した様子 (v1.10)  
-![screenshot](https://sakuzyokun.github.io/LiteExplorer/files/win7_LE.png)  -->
 Windows 11 でのSimpleNotepadを起動した様子 (v1.0.0)  
 ![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/SimpleNotepad_b1.png?raw=true)  
 Android 15 でのSimpleNotepadを起動した様子 (v1.1.1)  
@@ -55,7 +53,7 @@ Android 15 でのSimpleNotepadを起動した様子 (v1.1.1)
 ## 🔧 ダウンロード
 
 ▶ 最新版はこちらからダウンロード：  
-👉 **[https://sakuzyokun.github.io/SimpleStopwatch/](https://sakuzyokun.github.io/SimpleNotepad/)**
+👉 **[https://sakuzyokun.github.io/SimpleNotepad/](https://sakuzyokun.github.io/SimpleNotepad/)**
 
 - Windows版·Python版を更新する場合は古いファイルを消してから最新版をダウンロードすることをおすすめします
 - Android版を更新する場合は一度アンインストールをしてから最新版をインストールをおすすめします
